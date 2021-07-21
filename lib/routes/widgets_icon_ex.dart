@@ -8,7 +8,7 @@ class IconExample extends StatelessWidget {
     return Center(
       child: Icon(
         Icons.image,
-        size: 64.0,
+        size: 150.0,
         color: Theme.of(context).primaryColor,
       ),
     );
